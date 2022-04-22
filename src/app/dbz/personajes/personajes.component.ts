@@ -1,5 +1,4 @@
-import { Component, Input } from '@angular/core';
-import { Personaje } from '../interfaces/dbz.interfaces';
+import { Component } from '@angular/core';
 import { DbzSevice } from '../services/dbz.service';
 
 @Component({
